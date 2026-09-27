@@ -1,0 +1,20 @@
+command_id: 7E0.019E
+test_cases:
+- expected_values:
+    EXH_RATE: 43.6
+  response: 7E804419E00DA
+- expected_values:
+    EXH_RATE: 43.8
+  response: 7E804419E00DB
+- expected_values:
+    EXH_RATE: 45.2
+  response: 7E804419E00E2
+- expected_values:
+    EXH_RATE: 53.4
+  response: 7E804419E010B
+- expected_values:
+    EXH_RATE: 56.2
+  response: 7E804419E0119
+- expected_values:
+    EXH_RATE: 182.4
+  response: 7E804419E0390

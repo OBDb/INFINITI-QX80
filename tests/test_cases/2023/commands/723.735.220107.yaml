@@ -1,0 +1,11 @@
+command_id: 723.735.220107
+test_cases:
+- expected_values:
+    QX80_RADAR_DISTANCE: 0
+  response: '735056201070000'
+- expected_values:
+    QX80_RADAR_DISTANCE: 22.7
+  response: '7350562010700E3'
+- expected_values:
+    QX80_RADAR_DISTANCE: 27.6
+  response: '735056201070114'

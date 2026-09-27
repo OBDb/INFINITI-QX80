@@ -1,0 +1,8 @@
+command_id: 743.763.220E27|fc=1
+test_cases:
+- expected_values:
+    QX80_TP_RR: 230.97438
+  response: '76304620E2786'
+- expected_values:
+    QX80_TP_RR: 298.19827
+  response: 76304620E27AD

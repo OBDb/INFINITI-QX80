@@ -1,0 +1,11 @@
+command_id: 723.735.220110
+test_cases:
+- expected_values:
+    QX80_STEER_ANGLE: 0.9
+  response: '735056201100009'
+- expected_values:
+    QX80_STEER_ANGLE: -15.3
+  response: 73505620110FF67
+- expected_values:
+    QX80_STEER_ANGLE: -0.7
+  response: 73505620110FFF9

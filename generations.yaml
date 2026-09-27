@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (Z62)"
+    start_year: 2014
+    end_year: 2024
+    description: "The Z62 was sold as the QX56 from 2011 and renamed QX80 for 2014. It shares the Nissan Patrol Y62 and the 2017-2020 Armada's body-on-frame platform and 5.6-liter VK56VD V8 with a seven-speed automatic, and was refreshed for 2018."
+
+  - name: "Second Generation"
+    start_year: 2025
+    end_year: null
+    description: "The redesigned QX80 replaced the V8 with a twin-turbocharged 3.5-liter V6 and a nine-speed automatic, on an updated version of the Patrol's frame."
