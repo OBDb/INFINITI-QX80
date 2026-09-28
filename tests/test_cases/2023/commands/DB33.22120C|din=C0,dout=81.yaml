@@ -1,0 +1,23 @@
+command_id: DB33.22120C|din=C0,dout=81
+test_cases:
+- expected_values:
+    NI_FP: 2.71214
+  response: 7E80562120C22B7
+- expected_values:
+    NI_FP: 3.48913
+  response: 7E80562120C2CA9
+- expected_values:
+    NI_FP: 3.96826
+  response: 7E80562120C32CB
+- expected_values:
+    NI_FP: 4.0824
+  response: 7E80562120C3441
+- expected_values:
+    NI_FP: 4.09339
+  response: 7E80562120C3465
+- expected_values:
+    NI_FP: 12.28779
+  response: 7E80562120C9D48
+- expected_values:
+    NI_FP: 12.34607
+  response: 7E80562120C9E07
