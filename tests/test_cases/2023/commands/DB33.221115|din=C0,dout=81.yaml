@@ -1,0 +1,8 @@
+command_id: DB33.221115|din=C0,dout=81
+test_cases:
+- expected_values:
+    NI_EVAP_P: 3.82
+  response: 7E804621115BF
+- expected_values:
+    NI_EVAP_P: 4.04
+  response: 7E804621115CA

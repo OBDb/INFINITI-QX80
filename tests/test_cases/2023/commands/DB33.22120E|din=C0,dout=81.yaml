@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     NI_APP2_V: 0.76
   response: 7E80562120E0098
+- expected_values:
+    NI_APP2_V: 1.03
+  response: 7E80562120E00CE

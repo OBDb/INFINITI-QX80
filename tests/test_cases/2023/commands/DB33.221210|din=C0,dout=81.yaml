@@ -4,5 +4,8 @@ test_cases:
     NI_TPP2_V: 0.57
   response: '7E8056212100072'
 - expected_values:
+    NI_TPP2_V: 0.66
+  response: '7E8056212100084'
+- expected_values:
     NI_TPP2_V: 0.685
   response: '7E8056212100089'

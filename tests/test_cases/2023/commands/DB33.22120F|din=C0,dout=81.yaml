@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     NI_TPP1_V: 0.635
   response: 7E80562120F007F
+- expected_values:
+    NI_TPP1_V: 0.66
+  response: 7E80562120F0084
