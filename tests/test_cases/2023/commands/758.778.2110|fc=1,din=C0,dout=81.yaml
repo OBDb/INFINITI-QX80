@@ -46,6 +46,15 @@ test_cases:
     778219697F8AA006E6E
     778226E6EFFFFFFFFFF
 - expected_values:
+    QX80_WHL_1_P: 38
+    QX80_WHL_2_P: 37.75
+    QX80_WHL_3_P: 37.75
+    QX80_WHL_4_P: 38
+  response: |-
+    778100F611015189897
+    778219798F8AA006E6E
+    778226E6EFFFFFFFFFF
+- expected_values:
     QX80_WHL_1_P: 38.25
     QX80_WHL_2_P: 37.75
     QX80_WHL_3_P: 38

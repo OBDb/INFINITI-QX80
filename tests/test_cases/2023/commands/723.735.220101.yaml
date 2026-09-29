@@ -4,8 +4,8 @@ test_cases:
     QX80_YAW_RATE: 0
   response: '735056201010000'
 - expected_values:
-    QX80_YAW_RATE: -16.7
-  response: 73505620101FF59
+    QX80_YAW_RATE: -22.2
+  response: 73505620101FF22
 - expected_values:
     QX80_YAW_RATE: -0.1
   response: 73505620101FFFF
