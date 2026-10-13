@@ -1,8 +1,11 @@
 command_id: 743.763.220E26|fc=1
 test_cases:
 - expected_values:
+    QX80_TP_FL: null
+  response: '76304620E2600'
+- expected_values:
     QX80_TP_FL: 234.42176
   response: '76304620E2688'
 - expected_values:
-    QX80_TP_FL: 289.57982
-  response: 76304620E26A8
+    QX80_TP_FL: 293.0272
+  response: 76304620E26AA
