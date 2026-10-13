@@ -59,7 +59,7 @@
   "signals": [
     {"id": "QX80_ECT", "path": "Climate", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine coolant temperature", "suggestedMetric": "engineCoolantTemperature"}
   ]},
-{ "hdr": "744", "rax": "764", "fcm1": true, "dbg": true, "cmd": {"21": "10"}, "freq": 5,
+{ "hdr": "744", "rax": "764", "fcm1": true, "cmd": {"21": "10"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "QX80_HVAC_AAT",      "path": "Climate", "fmt": {            "len": 8,  "max": 215,   "min": -40, "add": -40, "unit": "celsius" }, "name": "Ambient air temperature, climate module"},
     {"id": "QX80_HVAC_CABIN_T",  "path": "Climate", "fmt": {"bix": 8,   "len": 8,  "max": 215,   "min": -40, "add": -40, "unit": "celsius" }, "name": "Cabin temperature"},
