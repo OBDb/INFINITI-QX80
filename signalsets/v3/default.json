@@ -72,10 +72,10 @@
   ]},
 { "hdr": "758", "rax": "778", "fcm1": true, "din": "C0", "dout": "81", "cmd": {"21": "10"}, "freq": 15, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
-    {"id": "QX80_WHL_1_P", "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 63.75, "div": 4, "unit": "psi" }, "name": "Front left tire pressure, tire pressure monitor",  "suggestedMetric": "frontLeftTirePressure"},
-    {"id": "QX80_WHL_2_P", "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 63.75, "div": 4, "unit": "psi" }, "name": "Front right tire pressure, tire pressure monitor", "suggestedMetric": "frontRightTirePressure"},
-    {"id": "QX80_WHL_3_P", "path": "Tires", "fmt": {"bix": 32, "len": 8, "max": 63.75, "div": 4, "unit": "psi" }, "name": "Rear right tire pressure, tire pressure monitor",  "suggestedMetric": "rearRightTirePressure"},
-    {"id": "QX80_WHL_4_P", "path": "Tires", "fmt": {"bix": 40, "len": 8, "max": 63.75, "div": 4, "unit": "psi" }, "name": "Rear left tire pressure, tire pressure monitor",   "suggestedMetric": "rearLeftTirePressure"}
+    {"id": "QX80_WHL_1_P", "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 63.75, "div": 4, "nullmin": 0, "unit": "psi" }, "name": "Front left tire pressure, tire pressure monitor",  "suggestedMetric": "frontLeftTirePressure"},
+    {"id": "QX80_WHL_2_P", "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 63.75, "div": 4, "nullmin": 0, "unit": "psi" }, "name": "Front right tire pressure, tire pressure monitor", "suggestedMetric": "frontRightTirePressure"},
+    {"id": "QX80_WHL_3_P", "path": "Tires", "fmt": {"bix": 32, "len": 8, "max": 63.75, "div": 4, "nullmin": 0, "unit": "psi" }, "name": "Rear right tire pressure, tire pressure monitor",  "suggestedMetric": "rearRightTirePressure"},
+    {"id": "QX80_WHL_4_P", "path": "Tires", "fmt": {"bix": 40, "len": 8, "max": 63.75, "div": 4, "nullmin": 0, "unit": "psi" }, "name": "Rear left tire pressure, tire pressure monitor",   "suggestedMetric": "rearLeftTirePressure"}
   ]},
 { "hdr": "758", "rax": "778", "dbg": true, "cmd": {"22": "0201"}, "freq": 15,
   "signals": [
